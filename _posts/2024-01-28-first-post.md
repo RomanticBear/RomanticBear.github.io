@@ -3,7 +3,7 @@ title: First Post
 date: 2024-01-28 17:00:00 +0900
 categories: [Blogging, Tutorial]
 tags: [writing] #소문자만
-publlished: false
+published: false
 ---
 
 ## 예시1
